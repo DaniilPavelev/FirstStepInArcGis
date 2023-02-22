@@ -1,4 +1,7 @@
 package main.java;
 
-public class AppLauncher {
+public class AppLauncher{
+    public static void main(String[] args) {
+        AppBody.main(args);
+    }
 }
